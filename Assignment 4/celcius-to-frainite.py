@@ -1,0 +1,1 @@
+print("Frainite:"+str(((9*(float(input("Enter celcius:"))))/5) + 32))
